@@ -1,3 +1,9 @@
+### DATE: 12/4/2024
+### NAME: ALFRED A.B.
+### REGISTER NO: 21222211002
+### DEPARTMENT: CSE(IOT)
+
+
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
 
 ## Aim: To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network 
